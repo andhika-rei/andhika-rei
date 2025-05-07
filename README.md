@@ -1,4 +1,7 @@
-## Hello World,I'Andhika Reisya Pratama 👋
+## Hello World,I'm Andhika Reisya Pratama 👋
+
+![andhika-rei](img/github.jpg)
+
 
 <!--
 **andhika-rei/andhika-rei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently attending **SMK N1 Sragi**
+- 🌱 I’m currently learning **Laravel Framework**
+- 😊😊😊
